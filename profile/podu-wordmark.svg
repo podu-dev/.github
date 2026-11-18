@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 144" width="304" height="144" role="img" aria-label="podu">
+  <g fill="none" stroke="#0F1B16" stroke-width="14" stroke-linecap="round">
+    <circle cx="32" cy="72" r="25"/><path d="M7 47V137"/>
+    <circle cx="112" cy="72" r="25"/>
+    <circle cx="192" cy="72" r="25"/><path d="M217 7V97"/>
+    <path d="M247 47V72a25 25 0 0 0 50 0M297 47V97"/>
+  </g>
+  <circle cx="32" cy="72" r="9" fill="#34C46A"/>
+</svg>
